@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SupVSSL7
-- 👀 I’m interested in SDEV, SDET, Gaming and Data Sci
-- 🌱 I’m currently learning R and Python 
+- 👀 I’m interested in CyberSecurity, Ci/CD
+- 🌱 I’m currently learning SPLUNK and vulnerability managment 
 - 💞️ I’m always looking to collaborate ...
 - 📫 Reach me @VSSL4Good (#insta)
 
